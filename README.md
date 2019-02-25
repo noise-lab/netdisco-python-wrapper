@@ -1,5 +1,11 @@
 # Python Wrapper for NetDisco
 
-Wrapper optimized for PyInstaller
+Wrapper optimized for PyInstaller, so that anyone can run NetDisco as a standalone binary.
 
-Run `build-mac.sh` to build executable for macOS.
+## Binary download
+
+macOS: https://github.com/noise-lab/netdisco-python-wrapper/raw/master/release/device_identifier_mac
+
+## Build instructions
+
+macOS: Run `build-mac.sh`
