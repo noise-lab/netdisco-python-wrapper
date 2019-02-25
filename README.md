@@ -1,6 +1,6 @@
 # Python Wrapper for NetDisco
 
-Wrapper optimized for PyInstaller, so that anyone can run NetDisco as a standalone binary.
+Wrapper optimized for PyInstaller, so that anyone can run [NetDisco](https://github.com/home-assistant/netdisco.git) as a standalone binary.
 
 ## Binary download
 
