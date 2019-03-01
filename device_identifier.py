@@ -3,6 +3,10 @@ import json
 
 netdis = NetworkDiscovery()
 
+VERSION = 1
+
+print(json.dumps({'version': VERSION}))
+
 netdis.scan()
 
 for dev in netdis.discover():
